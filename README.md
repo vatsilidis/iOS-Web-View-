@@ -13,6 +13,9 @@ This repo contains the code for the Web View project, based on Swift.
   * Stop-Loading   
 
 
+
+
+
 ## Cloning
 
 ```
@@ -20,15 +23,20 @@ git clone https://github.com/vatsilidis/iOS-Web-View-.git
 ```
 
 
+
+
 ## Dependencies for Running Locally
 * xCode >= 11
 * iOS device 12+  
+
+
 
 
 ## Compiling and Running
 
 ### Compiling
 To compile the project, clone it. unzip the file and import it to xCode app.
+
 
 ### Running
 * To run the project, insert the website lnk that you want at line 28.
@@ -39,5 +47,6 @@ If you want to disable Javascript support, go to this path project WebViewR/WebV
 
 
 
-### Contributors
+
+## Contributors
 * [Lampros Vatsilidis](https://www.linkedin.com/in/lampros-vatsilidis-5666ba128/)
